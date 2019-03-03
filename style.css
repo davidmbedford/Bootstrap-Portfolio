@@ -1,7 +1,3 @@
-#headerlinks {
-  float: right;
-}
-
 #navbar {
   background-color: blue;
 }
@@ -24,4 +20,8 @@ html {
   .footer-block {
     margin: 20px 0;
   }
+}
+
+img {
+  margin: 10px;
 }
