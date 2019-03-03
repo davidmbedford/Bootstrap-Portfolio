@@ -2,7 +2,15 @@
   background-color: blue;
 }
 
-$height-footer: 60px;
+#row-1,
+#row-2,
+#row-3 {
+  margin: 2px;
+}
+
+.container {
+  border: 1px solid #cccccc
+}
 
 html {
   min-height: 100%;
